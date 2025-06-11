@@ -92,7 +92,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/My-Portfolio">
       <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-white transition-colors">
         <Navbar toggleTheme={toggleTheme} currentTheme={theme} changeLanguage={changeLanguage} />
         <AnimatedRoutes />

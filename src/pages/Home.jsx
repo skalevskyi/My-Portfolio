@@ -14,7 +14,7 @@ const Home = () => {
       transition={{ duration: 0.6 }}
     >
       <img
-        src="/images/avatar.png"
+        src= {process.env.PUBLIC_URL + "/images/avatar.png"}
         alt="Profile"
         className="w-40 h-40 object-cover rounded-full mx-auto shadow-lg mb-6"
       />

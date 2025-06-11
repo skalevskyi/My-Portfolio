@@ -19,7 +19,7 @@ const Certificates = () => {
         title={t('certificates')}
         description={t('certificates_description')}
         stack="Static HTML, TailwindCSS"
-        image="/images/certificates.png"
+        image={process.env.PUBLIC_URL + "/images/certificates.png"}
         demoLink="https://skalevskyi.github.io/certificates/"
         repoLink="https://github.com/skalevskyi/certificates"
       />
