@@ -1,0 +1,19 @@
+{
+  "greeting": "Junior Web Developer",
+  "greeting_sub": "Ready for internship or first job",
+  "greeting_sub_extra": "Completed intensive training in web development (React, JavaScript, Node.js). Building modern apps, learning fast, and eager to grow within a team.",
+  "home": "Home",
+  "projects": "Projects",
+  "certificates": "Certificates",
+  "certificates_description": "A collection of certificates confirming my knowledge, training, and practical development skills.",
+  "contact": "Contact",
+  "name": "Name",
+  "projects.title": "Projects",
+  "projects.montpellier.description": "City guide for Montpellier with theme switching, filters, and Google Maps links.",
+  "projects.currency.description": "Real-time currency conversion using exchange rate API.",
+  "projects.weather.description": "Displays weather by city using the OpenWeather API.",
+  "projects.qr.description": "Generates QR codes from user input.",
+  "projects.login.description": "Animated login form with smooth transitions.",
+  "welcome": "Welcome to my portfolio",
+  "about_text": "This portfolio website showcases my projects, certifications, and contact information."
+}
