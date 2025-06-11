@@ -1,0 +1,19 @@
+{
+  "greeting": "Développeur Web junior",
+  "greeting_sub": "Prêt pour un stage ou un premier emploi",
+  "greeting_sub_extra": "Formation intensive en développement web (React, JavaScript, Node.js). Je crée des applications modernes, j’apprends vite et souhaite évoluer au sein d'une équipe.",
+  "home": "Accueil",
+  "projects": "Projets",
+  "certificates": "Certificats",
+  "certificates_description": "Une collection de certificats confirmant mes connaissances, ma formation et mes compétences pratiques en développement.",
+  "contact": "Contact",
+  "name": "Nom",
+  "projects.title": "Projets",
+  "projects.montpellier.description": "Guide de la ville de Montpellier avec thèmes, filtres et liens Google Maps.",
+  "projects.currency.description": "Convertisseur de devises en temps réel avec API de taux de change.",
+  "projects.weather.description": "Affiche la météo par ville à l'aide de l'API OpenWeather.",
+  "projects.qr.description": "Génère des QR codes à partir de données saisies.",
+  "projects.login.description": "Formulaire de connexion animé avec transitions fluides.",
+  "welcome": "Bienvenue dans mon portfolio",
+  "about_text": "Ce site portfolio présente mes projets, certificats et informations de contact."
+}
